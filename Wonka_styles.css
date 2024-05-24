@@ -1,0 +1,201 @@
+/* General h1 Styles */
+
+a:link {
+	color: black;
+	background-color: transparent;
+	text-decoration: underline;}
+
+a:visited {
+	color: #8FBC8F;
+	background-color: transparent;
+	text-decoration: none;
+ 	}
+
+a:hover {
+	color: #BDB76B;
+	background-color: transparent;
+	text-decoration: bold;}
+
+a:active {
+	color: red;
+	background-color: transparent;
+	text-decoration: bold;}
+
+
+h1 { 
+  text-align: center;
+  text-shadow: 0 0 3px #462701, 0 0 30px #00754A; 
+    color: #FAEBD7;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+   }
+
+h2 { 
+  text-align: center; 
+  text-shadow: 0 0 3px #462701, 0 0 10px #00754A; 
+    color: #FAEBD7;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+   }
+
+h3, h4, h5, h6 { 
+  text-align: left; 
+  text-shadow: 0 0 3px #462701, 0 0 5px #00754A; 
+    color: #FAEBD7;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+   }
+
+/* General Paragraph Styles */
+
+p {
+	text-align: left;
+	font-family: "Garamond", Times, serif;
+	color: #FAEBD7;
+	font-size: 1.875 em; 
+	padding: 2px;
+}
+
+body {
+	background-image: url('images/cocoabean_recolored.jpg');
+	background-color: brown;
+	background-repeat: no-repeat;
+	background-position: right top;
+	background-attachment: fixed;
+	background-size: cover;
+margin: 0;
+}
+
+div {
+text-align: left;
+margin: 0px 200px 0px 200px;
+}
+
+div.basic {
+	background-color: brown;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-color: #FAEBD7;
+	font-size: 1.875 em;
+}
+
+div.footer {
+	background-color: #FAEBD7; 
+	border-style: solid;
+	border-radius: 8px 8px 8px 8px;
+	border-color: burlyWood;
+	border-width: 1px 1px 1px 6px;
+	color: #FAEBD7;
+	padding: 8px;	
+}
+
+list {
+	text-align: center;
+    color: #FAEBD7;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+p.footerintro {
+	text-align: left;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color: maroon;
+	font-size: 1.875 em;
+	font-weight: bold;
+}
+
+p.footertext {
+	text-align: left;
+	font-family: "Garamond", Times, serif;
+	color: maroon;
+	font-size: 1.875 em;
+	font-weight: light;
+}
+
+div.funfact {
+
+	background-color: #FAEBD7; 
+	border-style: solid;
+	border-radius: 8px 8px 8px 8px;
+	border-color: burlyWood;
+	border-width: 1px 1px 1px 6px;
+	color: #FAEBD7;
+	padding: 8px;	
+}
+
+
+p.funintro {
+	text-align: left;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color: maroon;
+	font-size: 1.875 em;
+	font-weight: bold;
+	}
+
+p.funtext {
+	text-align: left;
+	font-family: "Garamond", Times, serif;
+	color: maroon;
+	font-size: 0.875em;
+
+}
+
+.topnav {
+overflow: hidden;
+background-color: #333
+
+border: 1px solid;
+border-collapse: collapse; 
+background-color: #FAEBD7; 
+border-style: solid;
+border-radius: 0px 0px 8px 8px;
+border-color: burlyWood;
+border-width: 1px 1px 1px 1px;
+color: brown;
+font-family: "Trebuchet MS", Helvetica, sans-serif;	
+position: fixed;
+top: 0;
+width: 100%;
+
+margin: 0;
+padding: 0;
+}
+
+.topnav a {
+
+float: left;
+display: block;
+color: #brown;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+
+}
+
+.topnav a:hover {
+background-color: burlyWood;
+color: #FAEBD7;
+
+}
+
+td {
+background-color: #FAEBD7; 
+}
+
+/* General Div Styles */
+div {
+  			background-image: url ("cocoabean_recolored.jpg");
+			background-repeat: no-repeat;
+			background-position: center;
+			background-attachment: scroll;
+			font-family: "Times New Roman", Times, serif;
+
+<img src="cocoabean_recolored.jpg" alt="background image of cocoa beans">
+}
+
+/* Color to look at:  https://www.w3schools.com/cssref/css_colors.php */
+
+/* for dee eye vee: background-color: green; 
+			opacity: 0.3; 
+
+			background-image: url ("cocoabean.jpeg");
+			background-repeat: no-repeat;
+			background-position: center;
+			background-attachment: scroll;
+
+*/
