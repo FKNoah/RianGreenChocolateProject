@@ -107,7 +107,7 @@ p.footertext {
 	font-weight: light;
 }
 
-div.funfact {
+div.origins {
 
 	background-color: #FAEBD7; 
 	border-style: solid;
@@ -119,7 +119,7 @@ div.funfact {
 }
 
 
-p.funintro {
+p.originintro {
 	text-align: left;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	color: maroon;
@@ -127,12 +127,20 @@ p.funintro {
 	font-weight: bold;
 	}
 
-p.funtext {
+p.origintext {
 	text-align: left;
 	font-family: "Garamond", Times, serif;
 	color: maroon;
 	font-size: 0.875em;
 
+}
+
+p.originid {
+	text-align: left;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color: maroon;
+	font-size: 1.5 em;
+	font-weight: bold;
 }
 
 .topnav {
