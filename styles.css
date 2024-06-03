@@ -149,9 +149,15 @@ width: 100%;
 
 td.chocolatelinks {
 width: 33%;
-padding: 15px;
+padding: 25px;
+text-align: center;
 }
 
+td.chocolatelinks:hover {
+background-color: burlyWood;
+color: #FAEBD7;
+
+}
 .topnav {
 overflow: hidden;
 background-color: #333
