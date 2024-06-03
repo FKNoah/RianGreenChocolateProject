@@ -143,6 +143,14 @@ p.originid {
 	font-weight: bold;
 }
 
+table.chocolatelinks {
+width: 100%;
+}
+
+td.chocolatelinks {
+width: 33%;
+}
+
 .topnav {
 overflow: hidden;
 background-color: #333
