@@ -147,11 +147,6 @@ table.chocolatelinks {
 width: 100%;
 }
 
-td.chocolatelinks {
-width: 33%;
-padding: 25px;
-text-align: center;
-}
 
 td.chocolatelinks:hover {
 background-color: burlyWood;
