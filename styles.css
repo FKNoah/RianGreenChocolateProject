@@ -1,12 +1,12 @@
 /* General h1 Styles */
 
 a:link {
-	color: black;
+	color: #8FBC8F;
 	background-color: transparent;
 	text-decoration: underline;}
 
 a:visited {
-	color: #8FBC8F;
+	color: #808080;
 	background-color: transparent;
 	text-decoration: none;
  	}
