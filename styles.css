@@ -60,7 +60,7 @@ body {
 	background-position: right top;
 	background-attachment: fixed;
 	background-size: cover;
-margin: 0;
+	margin: 0;
 }
 
 div {
@@ -143,11 +143,6 @@ p.originid {
 	font-weight: bold;
 }
 
-table.chocolatelinks {
-width: 100%;
-}
-
-
 td.chocolatelinks:hover {
 background-color: burlyWood;
 color: #FAEBD7;
@@ -205,15 +200,3 @@ div {
 
 <img src="cocoabean_recolored.jpg" alt="background image of cocoa beans">
 }
-
-/* Color to look at:  https://www.w3schools.com/cssref/css_colors.php */
-
-/* for dee eye vee: background-color: green; 
-			opacity: 0.3; 
-
-			background-image: url ("cocoabean.jpeg");
-			background-repeat: no-repeat;
-			background-position: center;
-			background-attachment: scroll;
-
-*/
